@@ -1,2 +1,2 @@
 # khan
-my khan from complete development coures
+my khan from complete development courses
